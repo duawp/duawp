@@ -1,5 +1,5 @@
 ## DUAWP ✌️
-###### CyberSecurity
+#### `CyberSecurity` `Researcher`
 
 
 I am a versatile software developer with expertise in Python, C++, and JavaScript. With a strong foundation in these programming languages, I excel at creating efficient, robust, and scalable solutions across various platforms. My ability to work across different programming paradigms enables me to tackle complex problems, whether it’s developing backend systems, building interactive web applications, or crafting performance-critical software.
